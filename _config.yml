@@ -1,23 +1,23 @@
 #Site configuration
-title: Read
+title: 简历
 name:  Read Jekyll
-author: Anthony Stark
-work:  Developer
+author: 刘柏
+work:  
 year: 2018
 
 # Navigation
-nav1: "About"
-nav2: "Things I Can Do"
-nav3: "A Few Accomplishments"
+nav1: "教育背景"
+nav2: "工作经历"
+nav3: "项目背景"
 
 # Section1
-sec1: "Read Jekyll"
-sec2: "Just an incredibly simple responsive template for Jekyll."
-sec3: "Faucibus sed lobortis aliquam lorem blandit. Lorem eu nunc metus col. Commodo id in arcu ante lorem ipsum sed accumsan erat praesent faucibus commodo ac mi lacus. Adipiscing mi ac commodo. Vis aliquet tortor ultricies non ante erat nunc integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum."
+sec1: "教育背景"
+sec2: "南昌大学."
+sec3: "信息工程学院–物联网工程"
 
 # Section 2
-sec4: "Things I Can Do"
-sec5: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer lorem ipsum dolor sit amet."
+sec4: "工作经历"
+sec5: "用户调研 原型设计 产品设计"
 icon1: "fas fa-code"
 icont1: "Write all the code"
 icon2: "fa-cubes"
@@ -32,7 +32,7 @@ icon6: "fa-users"
 icont6: "Shadow clone technique"
 
 # Section 3
-sec6: "A Few Accomplishments"
+sec6: "项目背景"
 sec7: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus."
 sec8: "Possibly broke spacetime"
 sec9: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
@@ -59,4 +59,3 @@ github: username
 #vimeo: username
 keybase: username
 email: test@gmail.com
-
