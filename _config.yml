@@ -16,8 +16,8 @@ nav5: "自我评价"
 sec1: "教育背景"
 sec2: "南昌大学"
 sec22: "2013.9-2017.5"
-sec3: "信息工程学院–物联网工程"
-sec14: "学士"
+sec3: "信息工程学院物联网工程"
+sec14: "物联网工程(本科)"
 
 # Section 2
 sec4: "工作经历"
@@ -68,5 +68,4 @@ sec53: ""
 #vimeo: username
 #keybase: username
 #email: username
-
 
