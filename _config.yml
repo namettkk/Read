@@ -20,18 +20,12 @@ sec3: "信息工程学院–物联网工程"
 # Section 2
 sec4: "工作经历"
 sec5: "郑州格物致微科技有限公司"
-icon1: "fas fa-code"
-icont1: "Write all the code"
+icon1: "fa-product-hunt"
+icont1: "产品经历"
 icon2: "fa-cubes"
 icont2: "Stack small boxes"
-icon3: "fa-book"
-icont3: "Read books and stuff"
-icon4: "fa-coffee"
-icont4: "Drink much coffee"
-icon5: "fa-bolt"
-icont5: "Lightning bolt"
-icon6: "fa-users"
-icont6: "Shadow clone technique"
+
+
 
 # Section 3
 sec31: "项目经历"
@@ -73,3 +67,4 @@ sec53: ""
 #vimeo: username
 #keybase: username
 #email: username
+
