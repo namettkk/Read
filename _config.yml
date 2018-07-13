@@ -2,7 +2,7 @@
 title: 简历
 name:  Read Jekyll
 author: 刘柏
-work:  产品
+work:  
 year: 2018
 
 # Navigation
@@ -43,6 +43,11 @@ sec11: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae
 sec12: "Snapped dark matter in the wild"
 sec13: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
 
+#section 4
+sec14: "自我评价"
+sec15: ""
+sec16: ""
+
 # Social Links
 #facebook: username
 #twitter:  username
@@ -61,5 +66,4 @@ sec13: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae
 #vimeo: username
 #keybase: username
 #email: username
-
 
