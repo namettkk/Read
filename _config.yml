@@ -4,7 +4,7 @@ name:  Read Jekyll
 author: 刘柏
 work:  产品
 year: 2018
-
+baseurl: "/Read"
 # Navigation
 nav1: "教育背景"
 nav2: "工作经历"
@@ -19,7 +19,7 @@ sec3: "信息工程学院–物联网工程"
 
 # Section 2
 sec4: "工作经历"
-sec5: "用户调研 原型设计 产品设计"
+sec5: "郑州格物致微科技有限公司"
 icon1: "fas fa-code"
 icont1: "Write all the code"
 icon2: "fa-cubes"
@@ -34,7 +34,7 @@ icon6: "fa-users"
 icont6: "Shadow clone technique"
 
 # Section 3
-sec31: "项目背景"
+sec31: "项目经历"
 sec32: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus."
 sec33: "Possibly broke spacetime"
 sec34: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
@@ -71,3 +71,4 @@ sec53: ""
 #vimeo: username
 #keybase: username
 #email: username
+
