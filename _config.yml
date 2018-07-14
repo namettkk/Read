@@ -26,6 +26,8 @@ icon1: "fa-product-hunt"
 icont1: "产品经理"
 
 
+
+
 # Section 3
 sec31: "项目经历"
 sec32: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus."
@@ -38,7 +40,7 @@ sec38: "<b>目标：</b> 获取甲方需求。 <b>行动：</b> 约见甲方，�
 
 #section 4
 sec41: "知识技能"
-icon41: "fa-code-fork"
+icon41: "fa-lightbulb-o"
 icont41: "<b>Mindmanage</b>思维导图工具"
 icon42: "fa-cube"
 icont42: "<b>Balsamiq</b>产品原型工具"
