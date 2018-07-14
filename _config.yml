@@ -40,8 +40,14 @@ sec38: "<b>目标：</b> 获取甲方需求。 <b>行动：</b> 约见甲方，�
 
 #section 4
 sec41: "知识技能"
-sec42: ""
-sec43: ""
+icon41: "a-code-fork"
+icont41: "<b>Mindmanage</b>思维导图工具"
+icon42: "fa-cube"
+icont42: "<b>Balsamiq</b>产品原型工具"
+icon43: "fa-mobile-phone"
+icont43: "<b>Axure</b>产品原型软件"
+icon44: "fa-line-chart"
+icont44: "<b>Python编程/数据分析</b>"
 
 #section 5
 sec51: "自我评价"
