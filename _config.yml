@@ -26,6 +26,8 @@ icon1: "fa-product-hunt"
 icont1: "产品经理"
 
 
+
+
 # Section 3
 sec31: "项目经历"
 sec32: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus."
@@ -49,8 +51,10 @@ icont44: "<b>Python编程/数据分析</b>"
 
 #section 5
 sec51: "自我评价"
-sec52: ""
-sec53: ""
+sec52: "<b>喜欢学习 </b>对新知识充满好奇，工作期间自学完成廖雪峰 <b>Python </b>教程、谷歌机器学习平台 <b>TensorFlow </b>教程。对 <b>区块链 </b>有一定认识，阅读过《京东区块链技术实践白皮书-2018.3》，《腾讯区块链方案白皮书》，重点关注新技术的落地和商业模式的构建。"
+sec53: "<b>喜欢新事物 </b>极客爱好者，动手能力强。树莓派第一批玩家，大学期间为了解前沿黑科技，独立架设vps。积极尝试新鲜事物，从使用者的角度体会产品人的用心，注重互联网+时代人与人连接的场景，不断巩固和提高产品思维。"
+sec54: "<b>喜欢APP </b>除国内主流APP外，对Twitter、Telegram、SoundCloud等国外APP也有所涉猎。 <b>GTD </b>轻度使用者(1年)，Things3、时间块、OneNote、Dropbox深度使用者，善于使用APP提升工作效率。 "
+
 
 # Social Links
 #facebook: username
